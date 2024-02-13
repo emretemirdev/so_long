@@ -6,13 +6,6 @@
 
 </div>
 <h2>Introduction </h2>
-<p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/simon-zerisenay/42_So_Long?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/simon-zerisenay/42_So_Long?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/simon-zerisenay/42_So_Long?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/simon-zerisenay/42_So_Long?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/simon-zerisenay/42_So_Long?color=green" />
-</p>
 
 Welcome to the 42 So_Long project! This project is part of the curriculum at 42 and focuses on creating a 2D game using the MinilibX, a simple graphic library provided by 42. So_Long is a game where the player navigates through a map, collects items, and avoids obstacles to reach the goal.
 
@@ -40,7 +33,7 @@ To install and run the So_Long project, follow these steps:
 
 Clone the project repository: 
 			
-			git clone https://github.com/your_username/42-so_long.git
+			git clone https://github.com/emretemirdev/so_long
 Navigate to the project directory: 
 			
 					cd 42-so_long
