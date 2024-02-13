@@ -54,9 +54,7 @@ Make sure you have the MinilibX library installed on your system. If it's not al
 To test the game and validate its functionality, follow these steps:
 <br/>
 <br/>
-<div align="center">
-	<img alt="Game" src="https://github.com/simon-zerisenay/42_So_Long/blob/master/game.png" />
-</div>
+
 <br/>
 <br/>
 Launch the game using the installation steps mentioned above.
